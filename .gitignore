@@ -1,0 +1,9 @@
+
+#  node server Dependency directory
+/node_modules
+
+#  node  html Dependency directory
+/html/node_modules
+
+#  node  html-webpack Dependency directory
+/html-webpack/node_modules
