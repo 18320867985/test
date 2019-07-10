@@ -12,3 +12,4 @@
 /.vs
 
 *.suo
+*.slnx.sqlite
