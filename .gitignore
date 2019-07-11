@@ -7,3 +7,9 @@
 
 #  node  html-webpack Dependency directory
 /html-webpack/node_modules
+
+# Visual Studio  Dependency directory
+/.vs
+
+*.suo
+*.slnx.sqlite
